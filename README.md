@@ -255,12 +255,12 @@ Watch the complete application demo here:
 
 ## 👨‍💻 Developer
 
-**Your Name**  
+**GURUPRASATH**  
 Flutter Developer | PHP Backend Developer
 
-- GitHub: [your GitHub profile link]
-- LinkedIn: [your LinkedIn profile link]
-- Email: [your email address]
+- GitHub: https://github.com/GURUPRASATH02
+- LinkedIn: https://www.linkedin.com/in/guruprasath02/
+- Email: guruprasath2902@gmail.com
 
 ## 📄 License
 
